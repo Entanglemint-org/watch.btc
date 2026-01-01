@@ -16,7 +16,7 @@ See [Provisioning Bitcoin Network Crawler](https://github.com/ayeowch/bitnodes/w
 
 * [DNS Seeders Health](https://bitnodes.io/seeders/)
 
-* [Charts](https://bitnodes.io/dashboard/)
+* [Charts](https://bitnodes.io/charts/)
 
 * [Live Map](https://bitnodes.io/nodes/live-map/)
 
@@ -24,7 +24,7 @@ See [Provisioning Bitcoin Network Crawler](https://github.com/ayeowch/bitnodes/w
 
 * [Leaderboard](https://bitnodes.io/nodes/leaderboard/)
 
-* [Client Status](https://bitnodes.io/dashboard/bitcoind/)
+* [Bitcoin Client Status](https://bitnodes.io/bitcoind/)
 
 * [Global Nodes](https://bitnodes.io/nodes/all/)
 
