@@ -87,7 +87,7 @@ class CrawlTestCase(unittest.TestCase):
         key = "node:127.0.0.1-8333-1"
         connect(key, self.redis_conn)
         self.assertEqual(
-            mock_connection.call_args.kwargs["user_agent"], "/bitnodes.io:0.3/"
+            mock_connection.call_args.kwargs["user_agent"], "/Entanglemint:watch.btc:0.0.1/"
         )
 
     def test_set_max_age(self):

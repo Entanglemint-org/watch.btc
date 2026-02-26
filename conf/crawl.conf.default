@@ -22,7 +22,6 @@ seeders =
     dnsseed.emzy.de
     seed.bitcoin.wiz.biz
     seed.mainnet.achownodes.xyz
-    seed.bitnodes.io
 
 # Number of concurrent workers (greenlets)
 workers = 700
@@ -47,10 +46,9 @@ protocol_version = 70016
 # -----------------------------------------------------------------------------
 #                                 NOTE TO USERS
 # Please consider changing the user agent before running an instance of this
-# crawler. This is so that users will not confuse your crawler with another
-# instance that is already running and generating data for the project.
+# crawler.
 # -----------------------------------------------------------------------------
-user_agent = /bitnodes.io:0.3/
+user_agent = /Entanglemint:watch.btc:0.0.1/
 
 # Services to use for outgoing network address message
 services = 0
@@ -162,7 +160,7 @@ tor_proxies =
 # List of initial .onion nodes
 onion_nodes =
 
-# Include reachable nodes from https://bitnodes.io/#join-the-network
+# Include reachable nodes from BitNodes
 include_checked = False
 
 # Relative path to directory containing timestamp-prefixed JSON crawl files

@@ -178,7 +178,7 @@ SERVICES = {
 
 FROM_SERVICES = 0
 TO_SERVICES = NODE_NETWORK
-USER_AGENT = "/bitnodes.io:0.3/"
+USER_AGENT = "/Entanglemint:watch.btc:0.0.1/"
 HEIGHT = 923118
 RELAY = 0  # Set to 1 to receive all txs.
 
